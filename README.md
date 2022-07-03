@@ -21,7 +21,7 @@
 
 ### GitHub Stats :zap:
 
-![Nilesh's github stats](https://github-readme-stats.vercel.app/api?username=NileshChoudhary111&show_icons=true)
+![Nilesh's github stats](https://github-readme-stats.vercel.app/api?username=nileshc-bsf&show_icons=true)
 
 ---
 <!--
