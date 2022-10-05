@@ -4,11 +4,23 @@
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></em>
 
+🔭 Currently exploring on **React-JS, Redux**
+<br />
+🌱 Improving proficiency in **React-JS, Redux**
+<br />
+💬 Ask me anything about **HTML, CSS, JS, JQuery, WordPress Development, API integration**
+<br />
+📫 How to reach me: **choudharynilesh111@gmail.com**
+<br />
+⚡ Fun fact: **I'm very fond of music.**
+
+---
 
 ### Find and Follow me elsewhere 🌎
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/nileshchoudharyoffical/)](https://www.linkedin.com/in/nileshchoudharyoffical/)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/nilesh.choudhary.5070/)](https://www.facebook.com/nilesh.choudhary.5070/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/nileshc_officials/)](https://www.instagram.com/nileshc_officials/)
+
 ---
 
 ### Languages and Tools:
@@ -27,6 +39,14 @@
 ### GitHub Stats :zap:
 
 ![Nilesh's github stats](https://github-readme-stats.vercel.app/api?username=nileshc-bsf&show_icons=true)
+
+<a href="javascript:void(0)"><img alt="Nilesh's Trophies" src="https://github-profile-trophy.vercel.app/?username=nileshc-bsf" /></a>
+<a href="javascript:void(0)"><img alt="Nilesh's GitHub stats" style="width:55%" src="https://github-readme-stats.vercel.app/api?username=nileshc-bsf&include_all_commits=true&show_icons=true" /></a>
+<a href="javascript:void(0)"><img alt="Nilesh's Top Languages" style="width:40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nileshc-bsf&layout=compact&hide=html" /></a>
+<br/>
+<a href="javascript:void(0)"><img alt="Nilesh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nileshc-bsf" /></a>
+<br/>
+
 
 ---
 <!--
