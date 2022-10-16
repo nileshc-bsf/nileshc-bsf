@@ -16,6 +16,15 @@
 
 ---
 
+### Viewers & Followers:
+
+<a href="javascript:void(0)">
+    <img src="https://komarev.com/ghpvc/?username=imnavanath">
+</a>
+<a href="https://github.com/imnavanath?tab=followers"><img src="https://img.shields.io/github/followers/imnavanath?label=Followers&style=social" alt="GitHub Badge"></a>
+
+
+---
 
 ### Find and Follow me elsewhere 🌎
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/nileshchoudharyoffical/)](https://www.linkedin.com/in/nileshchoudharyoffical/)
