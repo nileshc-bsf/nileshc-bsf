@@ -4,15 +4,15 @@
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></em>
 
-🔭 Currently exploring on **React-JS, Redux**
+🔭 I'm currently exploring on **React-JS, Redux**
 <br />
-🌱 Improving proficiency in **React-JS, Redux**
+🌱 I'm improving proficiency in **React-JS, Redux**
 <br />
 💬 Ask me anything about **HTML, CSS, JS, JQuery, WordPress Development, API integration**
 <br />
-📫 How to reach me: **choudharynilesh333@gmail.com**
+📫 Reach out to me: **choudharynilesh333@gmail.com**
 <br />
-⚡ Fun fact: **I'm very fond of music.**
+⚡ Fun fact: **I love to play Cricket and I'm very fond of music.**
 
 ---
 
